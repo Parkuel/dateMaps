@@ -1,9 +1,3 @@
-
-# Virtual Environment
-Include
-Lib
-Scripts
-pyvenv.cfg
-
-
-
+sendgrid.env
+venv
+__pycache__
